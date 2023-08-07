@@ -3,6 +3,10 @@ The timeless Kanto region under a new reign!
 
 ## Installation
 
+To get the .ups patch, look to the right to find the latest release of the patch.
+
+Do not click the source code folders; click the file named "PokemonRoyalRed".
+
 You will need a FireRed ROM and the .ups patch at hand. This FireRed ROM should be from the USA reigon, as other languages are not supported at this time.
 
 The hack does not support Revision 1 copies. You can check if it is a Rev 1 game if, when the game is started, the word "PRESENTS" is under the GameFreak logo.
