@@ -5,7 +5,7 @@ The timeless Kanto region under a new reign!
 
 To get the .ups patch, look to the right to find the latest release of the patch.
 
-Do not click the source code folders; click the file named "PokemonRoyalRed".
+Click the top file in Assets named "Pokemon Royal Red"; do not click the source code folders.
 
 You will need a FireRed ROM and the .ups patch at hand. This FireRed ROM should be from the USA reigon, as other languages are not supported at this time.
 
@@ -39,34 +39,34 @@ Fairy type and new moves
 
 And so much more!
 
-# Bug Reports
+## Troubleshooting
 
 If you find anything wrong with the game, please search if it's an issue with base FireRed first. Make sure that the ROM you used was correct (see **Installation**)
 
 Bugs that are caused by bad ROMs include glitched text in the move menu, and items not appearing in the bag.
 
-VBA-M has difficulties with the RTC clock feature. Using the mGBA emulator or the mGBA core used in RetroArch is advised.
-
-If you still want to use VBA-M, go to Options > Game Boy Advance, and enable RTC. Then, in that same menu, go to configure, and change the save type to Flash and the flash size to 128kb.
+VBA-M has difficulties with the RTC clock feature. Using the mGBA emulator or the mGBA core used in RetroArch is advised. If you still want to use VBA-M, go to Options > Game Boy Advance, and enable RTC. Then, in that same menu, go to configure, and change the save type to Flash and the flash size to 128kb.
 
 ![image](https://github.com/KirbyKing186/Pokemon-Royal-Red/assets/125282065/82628390-4c1c-4d55-9e71-6124f62a173f)
 
 If you are sure there is something wrong with the hack, please submit a issue report and I will attend to it as soon as possible.
 
 
-# Special Thanks
+## Special Thanks
 
 Game Freak - Original FireRed Developers
 
 Nintendo - Original FireRed Publishers
 
-Kirby Baker - Spritework and support
+Kirby Baker - Tons of spritework and support
 
 Hex Maniac Discord - Uncountable amounts of help
 
 Haven & Shiny Till Dawn - Supported me and developed HMA
 
 Yogia16 - Supported me and sprited the HMA intro screen
+
+Lunos & Againsts - Created the [B2W2 styled party menu](https://www.pokecommunity.com/showthread.php?t=414022) and [B2W2 styled summary menu](https://www.pokecommunity.com/showthread.php?t=399121) respectivley.
 
 And... YOU!
 
